@@ -23552,6 +23552,11 @@ section {
     background: linear-gradient(360deg, #066ac9 0%, #064f8a 100%);
 }
 
+.bg-grad-creative {
+    background: -webkit-gradient(linear, left bottom, left top, from(#1696AD), to(#107181));
+    background: linear-gradient(360deg, #1696AD 0%, #107181 100%);
+}
+
 .bg-danger-soft-hover:hover,
 .bg-danger-soft-hover:active,
 .bg-danger-soft-hover:focus {
