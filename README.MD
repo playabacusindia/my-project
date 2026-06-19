@@ -15,6 +15,4 @@ cdn
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/choices.js/10.2.0/choices.min.js" integrity="sha512-OrRY3yVhfDckdPBIjU2/VXGGDjq3GPcnILWTT39iYiuV6O3cEcAxkgCBVR49viQ99vBFeu+a6/AoFAkNHgFteg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
 <script src="https://cdnjs.cloudflare.com/ajax/libs/choices.js/10.2.0/choices.js" integrity="sha512-V0s+xMo96qxq9oaDb+oHF+yqn4BLPnehZQlo7Vw6wYPjGADIyZ7uSQrAEHD8OWfBg/kalcr6h3GKIlNX78AyJA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
