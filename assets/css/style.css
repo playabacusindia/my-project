@@ -26160,5 +26160,21 @@ html[dir=rtl] .choices__input {
     display: none !important;
 }
 
+/* Custom Optimization Classes to remove inline styles */
+.review-logo {
+    max-width: 180px;
+    height: auto;
+}
+
+.global-map-bg {
+    background-image: url(../images/element/map.svg);
+    background-position: center left;
+    background-size: cover;
+}
+
+.footer-student-img {
+    width: 280px;
+}
+
 /*User CSS*/
 /*# sourceMappingURL=style.css.map */
