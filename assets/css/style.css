@@ -23749,6 +23749,27 @@ small,
     color: #3aacdd;
 }
 
+.bg-x-twitter {
+    background-color: #000000;
+    color: #fff;
+    border: none;
+}
+
+.bg-x-twitter:hover,
+.bg-x-twitter:active,
+.bg-x-twitter:focus {
+    background-color: #0a0a0a;
+    color: #fff;
+}
+
+.text-x-twitter {
+    color: #000000;
+}
+
+.text-x-twitter:hover {
+    color: #0a0a0a;
+}
+
 .bg-linkedin {
     background-color: #238cc8;
     color: #fff;
