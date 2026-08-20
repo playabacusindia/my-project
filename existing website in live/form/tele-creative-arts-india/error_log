@@ -1,0 +1,523 @@
+[24-Jul-2025 01:48:44 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[25-Jul-2025 09:07:16 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[27-Jul-2025 08:27:51 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[27-Jul-2025 22:56:21 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[30-Jul-2025 14:39:14 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[04-Aug-2025 15:37:21 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/66.249.66.11/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[04-Aug-2025 17:04:20 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/106.210.224.244/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[05-Aug-2025 21:44:36 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[07-Aug-2025 17:44:01 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/66.249.66.10/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[08-Aug-2025 19:23:59 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/66.249.66.9/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[09-Aug-2025 02:08:27 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[11-Aug-2025 18:54:27 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/66.249.66.11/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[11-Aug-2025 19:20:02 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/66.249.66.9/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[13-Aug-2025 12:02:46 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[13-Aug-2025 19:24:58 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/17.241.75.188/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[14-Aug-2025 14:06:47 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/152.57.26.73/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[14-Aug-2025 14:08:14 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/152.57.26.73/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[15-Aug-2025 14:23:33 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/103.154.234.7/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[15-Aug-2025 14:23:46 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/103.154.234.7/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[15-Aug-2025 17:01:20 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[23-Aug-2025 18:37:02 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[25-Aug-2025 01:05:01 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[29-Aug-2025 00:03:11 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[02-Sep-2025 19:57:50 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[06-Sep-2025 03:00:16 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[06-Sep-2025 05:09:14 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[10-Sep-2025 18:29:01 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[15-Sep-2025 16:36:15 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[26-Sep-2025 14:47:43 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/168.119.246.192/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[26-Sep-2025 16:11:51 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/27.61.61.6/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[26-Sep-2025 16:12:35 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/27.61.61.6/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[26-Sep-2025 16:12:40 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/27.61.61.6/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[26-Sep-2025 16:32:32 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.36/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[26-Sep-2025 20:04:30 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[26-Sep-2025 23:08:55 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[27-Sep-2025 08:37:15 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[27-Sep-2025 20:45:46 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/40.77.178.159/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[29-Sep-2025 22:28:55 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/43.173.179.137/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[30-Sep-2025 21:25:59 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/128.140.53.192/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[02-Oct-2025 02:26:16 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[05-Oct-2025 16:27:30 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[06-Oct-2025 19:16:52 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.36/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[10-Oct-2025 19:15:17 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/66.249.66.9/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[18-Oct-2025 07:46:03 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[24-Oct-2025 02:24:18 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[27-Oct-2025 08:47:42 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[28-Oct-2025 03:33:40 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[11-Nov-2025 07:00:40 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[21-Nov-2025 23:12:24 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[22-Nov-2025 16:20:18 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[25-Nov-2025 17:54:01 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[27-Nov-2025 10:00:15 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[28-Nov-2025 19:46:04 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[29-Nov-2025 17:49:53 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/tele-chatbox.php on line 5
+[29-Nov-2025 17:50:20 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/tele-chatbox.php on line 5
+[05-Dec-2025 00:32:09 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[06-Dec-2025 11:15:39 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[11-Dec-2025 00:32:58 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[11-Dec-2025 23:06:12 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/66.249.73.103/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[14-Dec-2025 19:45:14 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[14-Dec-2025 21:01:09 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[14-Dec-2025 21:05:32 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[14-Dec-2025 21:05:52 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[14-Dec-2025 21:09:10 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[14-Dec-2025 21:15:09 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[14-Dec-2025 21:18:03 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[14-Dec-2025 21:21:26 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[14-Dec-2025 21:21:31 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[14-Dec-2025 21:27:21 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[14-Dec-2025 21:31:37 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[14-Dec-2025 21:34:16 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[14-Dec-2025 21:35:51 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[14-Dec-2025 21:36:52 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[14-Dec-2025 21:51:49 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[14-Dec-2025 22:07:15 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[14-Dec-2025 22:11:23 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[14-Dec-2025 22:29:18 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[14-Dec-2025 23:01:11 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[14-Dec-2025 23:39:35 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[15-Dec-2025 01:12:58 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[18-Dec-2025 19:26:35 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.154.155.130/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[19-Dec-2025 11:36:07 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.154.155.129/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[19-Dec-2025 11:42:07 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[19-Dec-2025 21:14:12 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[20-Dec-2025 18:55:04 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.153.153.47/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[20-Dec-2025 19:48:40 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/103.108.58.16/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[20-Dec-2025 21:55:58 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[21-Dec-2025 12:12:56 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.153.153.47/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[21-Dec-2025 12:51:54 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/66.249.73.101/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[21-Dec-2025 13:25:04 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[21-Dec-2025 15:17:32 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[22-Dec-2025 14:50:07 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/223.237.166.35/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[22-Dec-2025 14:50:27 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/223.237.166.35/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[22-Dec-2025 22:03:13 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.154.155.129/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[23-Dec-2025 16:11:44 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/9.169.124.50/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[23-Dec-2025 20:43:12 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.153.231.53/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[23-Dec-2025 23:14:26 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[24-Dec-2025 15:18:21 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/9.169.124.51/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[24-Dec-2025 20:27:50 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[24-Dec-2025 23:41:08 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.153.231.53/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[25-Dec-2025 19:15:59 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[25-Dec-2025 23:48:27 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/185.10.4.38/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[26-Dec-2025 12:21:01 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.153.153.47/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[26-Dec-2025 16:57:30 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[26-Dec-2025 18:28:46 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/9.169.124.50/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[26-Dec-2025 22:47:21 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/40.77.178.235/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[27-Dec-2025 16:00:33 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[28-Dec-2025 16:58:23 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.153.231.53/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[28-Dec-2025 21:55:21 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/66.249.73.101/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[28-Dec-2025 22:24:46 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/66.249.73.102/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[28-Dec-2025 23:31:24 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[29-Dec-2025 19:35:54 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[29-Dec-2025 20:51:33 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.154.155.130/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[30-Dec-2025 18:12:09 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[30-Dec-2025 22:28:54 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/9.169.124.50/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[31-Dec-2025 17:14:09 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/66.249.79.7/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[31-Dec-2025 18:44:33 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.153.231.53/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[31-Dec-2025 19:27:10 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[01-Jan-2026 12:58:16 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/66.249.79.7/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[01-Jan-2026 22:18:53 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[01-Jan-2026 22:55:23 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/65.55.210.219/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[03-Jan-2026 17:16:18 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.153.231.53/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[03-Jan-2026 18:36:17 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.154.155.129/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[04-Jan-2026 07:56:47 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.154.155.130/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[04-Jan-2026 11:23:52 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/9.169.124.50/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[04-Jan-2026 12:16:26 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[05-Jan-2026 16:08:47 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/43.173.182.107/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[05-Jan-2026 16:09:59 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.154.155.130/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[05-Jan-2026 16:45:49 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[05-Jan-2026 22:49:13 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/9.169.124.51/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[05-Jan-2026 23:49:53 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[06-Jan-2026 15:16:45 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/43.173.172.104/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[07-Jan-2026 18:32:16 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.153.231.53/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[07-Jan-2026 23:51:57 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/40.77.177.63/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[08-Jan-2026 12:29:21 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.154.155.130/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[08-Jan-2026 14:58:13 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/103.97.249.164/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[08-Jan-2026 19:04:03 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/43.173.173.12/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[08-Jan-2026 20:16:19 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[08-Jan-2026 21:05:25 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.154.155.130/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[09-Jan-2026 16:42:09 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.154.155.130/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[09-Jan-2026 23:29:53 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.154.155.129/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[10-Jan-2026 16:58:35 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[10-Jan-2026 21:09:27 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.154.155.130/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[10-Jan-2026 22:15:39 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/17.22.253.228/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[11-Jan-2026 15:51:59 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[11-Jan-2026 20:05:41 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/9.169.124.50/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[12-Jan-2026 15:05:21 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[12-Jan-2026 21:51:34 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.154.155.129/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[13-Jan-2026 10:11:06 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[13-Jan-2026 23:45:56 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[14-Jan-2026 18:14:54 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.153.153.47/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[14-Jan-2026 18:59:16 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[15-Jan-2026 20:32:11 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.154.155.130/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[15-Jan-2026 21:24:08 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[15-Jan-2026 21:48:37 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/9.169.124.50/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[16-Jan-2026 20:43:36 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.153.153.47/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[16-Jan-2026 21:37:12 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[17-Jan-2026 18:58:55 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/9.169.124.51/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[17-Jan-2026 19:32:24 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/9.169.124.51/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[17-Jan-2026 19:51:13 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[18-Jan-2026 22:33:23 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/43.173.180.187/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[21-Jan-2026 20:11:58 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[21-Jan-2026 21:41:18 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[22-Jan-2026 16:36:15 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[24-Jan-2026 23:27:33 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.153.231.53/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[24-Jan-2026 23:27:46 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[25-Jan-2026 00:30:47 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[05-Feb-2026 23:06:52 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.154.155.130/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[06-Feb-2026 22:04:52 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/66.249.79.6/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[07-Feb-2026 05:33:12 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[08-Feb-2026 22:54:29 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.153.153.47/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[10-Feb-2026 23:28:35 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/40.77.177.170/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[12-Feb-2026 18:57:24 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[12-Feb-2026 18:58:28 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[12-Feb-2026 19:16:16 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[12-Feb-2026 20:43:52 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[13-Feb-2026 20:45:46 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/9.169.124.51/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[14-Feb-2026 19:35:19 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/9.169.124.51/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[15-Feb-2026 21:18:34 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[17-Feb-2026 17:24:16 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.154.155.130/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[17-Feb-2026 19:55:26 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/9.169.124.51/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[17-Feb-2026 21:50:25 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/9.169.124.50/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[18-Feb-2026 21:27:07 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/43.173.182.233/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[19-Feb-2026 22:13:26 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[20-Feb-2026 22:51:35 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.154.155.130/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[20-Feb-2026 23:06:13 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[21-Feb-2026 23:28:17 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/66.249.79.7/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[22-Feb-2026 19:50:46 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/9.169.124.51/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[23-Feb-2026 21:55:59 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[25-Feb-2026 21:44:24 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.154.155.129/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[25-Feb-2026 23:46:59 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[28-Feb-2026 21:27:25 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[01-Mar-2026 23:18:27 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[01-Mar-2026 23:54:58 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/1.32.219.175/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[05-Mar-2026 22:14:05 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[05-Mar-2026 22:14:08 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[05-Mar-2026 22:14:08 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[06-Mar-2026 02:02:45 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[07-Mar-2026 23:11:10 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/195.63.26.13/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[08-Mar-2026 03:36:16 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[11-Mar-2026 10:09:59 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[14-Mar-2026 18:16:44 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/43.173.172.63/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[14-Mar-2026 18:33:52 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/43.173.172.31/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[14-Mar-2026 19:44:17 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[15-Mar-2026 22:00:03 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/66.249.79.8/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[15-Mar-2026 23:19:34 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/66.249.79.6/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[17-Mar-2026 15:23:01 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[21-Mar-2026 22:33:48 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.153.231.53/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[22-Mar-2026 16:35:41 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[23-Mar-2026 22:00:37 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/9.169.124.50/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[24-Mar-2026 14:06:07 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[24-Mar-2026 23:47:42 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/116.179.37.22/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[25-Mar-2026 04:58:06 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[25-Mar-2026 22:55:28 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/45.181.148.212/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[26-Mar-2026 23:01:59 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.154.155.129/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[27-Mar-2026 18:29:44 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[27-Mar-2026 22:27:33 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/34.12.33.180/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[27-Mar-2026 23:47:52 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.154.155.129/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[28-Mar-2026 22:50:47 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[28-Mar-2026 22:50:48 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[29-Mar-2026 21:48:03 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[31-Mar-2026 02:25:09 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[01-Apr-2026 18:40:43 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[01-Apr-2026 18:40:56 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[01-Apr-2026 18:41:08 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[01-Apr-2026 18:41:35 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[01-Apr-2026 18:41:40 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[02-Apr-2026 19:19:30 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[03-Apr-2026 23:10:27 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[04-Apr-2026 06:55:03 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/9.169.124.50/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[04-Apr-2026 10:59:07 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/66.249.66.195/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[04-Apr-2026 12:06:13 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/66.249.66.11/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[04-Apr-2026 14:41:57 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/9.169.124.50/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[04-Apr-2026 15:55:02 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/144.217.135.130/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[05-Apr-2026 00:29:17 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/9.169.124.51/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[05-Apr-2026 00:37:18 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/116.179.37.220/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[05-Apr-2026 04:03:00 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/116.179.37.154/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[05-Apr-2026 07:33:21 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.153.231.53/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[05-Apr-2026 09:06:55 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[05-Apr-2026 10:27:53 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[05-Apr-2026 17:28:58 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/43.173.177.149/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[05-Apr-2026 18:41:13 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/116.179.37.122/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[06-Apr-2026 00:57:40 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[06-Apr-2026 06:47:26 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.154.155.130/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[06-Apr-2026 10:46:17 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.154.155.129/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[06-Apr-2026 22:09:28 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.154.155.129/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[06-Apr-2026 23:13:09 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/66.249.66.165/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[07-Apr-2026 02:46:47 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/9.169.124.51/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[07-Apr-2026 06:48:22 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[07-Apr-2026 06:53:45 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/66.220.149.18/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[07-Apr-2026 19:12:05 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/116.179.37.110/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[07-Apr-2026 20:17:33 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/9.169.124.51/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[07-Apr-2026 20:42:49 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/17.241.227.23/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[08-Apr-2026 02:30:14 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.153.231.53/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[08-Apr-2026 11:11:37 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[09-Apr-2026 01:21:20 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/66.249.66.11/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[09-Apr-2026 04:42:13 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.154.155.129/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[09-Apr-2026 08:59:29 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.153.231.53/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[09-Apr-2026 09:00:26 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/66.249.66.72/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[09-Apr-2026 11:13:42 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/136.107.116.65/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[09-Apr-2026 12:45:21 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/116.179.33.76/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[09-Apr-2026 20:54:13 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.41.186/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[10-Apr-2026 01:16:57 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/17.241.75.137/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[10-Apr-2026 01:55:26 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/9.169.124.50/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[10-Apr-2026 07:04:15 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.154.155.129/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[10-Apr-2026 20:29:54 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/9.169.124.50/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[12-Apr-2026 06:37:11 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[13-Apr-2026 16:38:42 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[16-Apr-2026 09:03:41 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[17-Apr-2026 21:14:28 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/66.249.79.7/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[19-Apr-2026 23:52:06 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/66.249.79.8/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[25-Apr-2026 18:06:35 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[25-Apr-2026 23:42:27 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.153.231.53/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[26-Apr-2026 23:38:12 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/72.154.155.129/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[27-Apr-2026 22:26:58 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/202.8.42.50/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[01-May-2026 20:31:02 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/17.22.237.224/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[02-May-2026 22:41:11 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/18.218.5.251/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[04-May-2026 07:57:33 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[12-May-2026 18:19:26 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[12-May-2026 18:59:19 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/17.246.15.26/json): failed to open stream: HTTP request failed! HTTP/1.0 503 Service Unavailable
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[14-May-2026 03:23:45 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[17-May-2026 19:26:15 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/66.249.70.105/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[26-May-2026 03:20:15 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[26-May-2026 21:37:26 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/103.224.128.82/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[26-May-2026 22:38:52 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/16.148.97.218/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[27-May-2026 07:34:47 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[28-May-2026 08:31:49 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[01-Jun-2026 22:56:36 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/116.179.37.157/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[02-Jun-2026 11:54:22 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[03-Jun-2026 23:23:51 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[04-Jun-2026 06:07:50 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[07-Jun-2026 13:44:46 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[12-Jun-2026 23:16:55 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[20-Jun-2026 06:44:51 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[27-Jun-2026 22:31:00 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/103.99.181.94/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[29-Jun-2026 22:03:04 UTC] PHP Warning:  file_get_contents(https://ipinfo.io/20.245.145.50/json): failed to open stream: HTTP request failed! HTTP/1.0 429 Too Many Requests
+ in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 31
+[03-Jul-2026 16:14:10 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[06-Jul-2026 07:12:11 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[08-Jul-2026 21:37:49 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[10-Jul-2026 17:15:38 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[13-Jul-2026 06:52:18 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[16-Jul-2026 22:17:40 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[18-Jul-2026 12:04:07 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[18-Jul-2026 12:07:56 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[18-Jul-2026 12:20:39 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[18-Jul-2026 12:44:51 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[18-Jul-2026 13:10:34 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[18-Jul-2026 13:24:30 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[18-Jul-2026 13:41:04 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[18-Jul-2026 13:45:43 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[18-Jul-2026 14:49:19 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[18-Jul-2026 16:37:13 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[18-Jul-2026 16:54:58 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[18-Jul-2026 19:45:22 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[18-Jul-2026 19:59:03 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[18-Jul-2026 22:07:38 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[20-Jul-2026 03:50:57 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[20-Jul-2026 05:44:46 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[20-Jul-2026 05:50:47 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[20-Jul-2026 05:51:08 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[20-Jul-2026 05:52:22 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[20-Jul-2026 05:53:22 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[20-Jul-2026 05:53:30 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[20-Jul-2026 05:55:22 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[20-Jul-2026 05:57:59 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[28-Jul-2026 10:03:49 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[31-Jul-2026 12:49:10 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[04-Aug-2026 06:36:31 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[06-Aug-2026 07:28:09 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[07-Aug-2026 15:01:34 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[10-Aug-2026 15:03:23 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
+[15-Aug-2026 07:56:36 UTC] PHP Notice:  Undefined index: HTTP_ORIGIN in /home/arkakids/playabacusindia.com/form/tele-creative-arts-india/get-location.php on line 5
