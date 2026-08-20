@@ -243,7 +243,7 @@
                                             class="fa-solid fa-photo-film me-1"></i>Gallery</a> </li>
                                 <li> <a class="dropdown-item" href="franchise.html"><i
                                             class="fa-solid fa-users me-1"></i>Franchise</a> </li>
-                                <li> <a class="dropdown-item" href="testimonials.html"><i
+                                <li> <a class="dropdown-item" href="index.html#testimonials"><i
                                             class="fa-solid fa-star me-1"></i>Testimonials</a> </li>
                             </ul>
                         </li>
@@ -499,8 +499,8 @@ Main Banner START -->
                             <div class="bg-warning rounded-4 border border-white border-5 h-200px h-sm-300px shadow">
                             </div>
                             <!-- Image -->
-                            <img src="assets/images/abacus/06deswf.png"
-                                class="position-absolute bottom-0 start-50 translate-middle-x" alt="">
+                            src="assets/images/abacus/06deswf.png"
+                                class="position-absolute bottom-0 start-50 translate-middle-x" alt="06deswf - Ideal Play Abacus"
                         </div>
 
                     </div>
@@ -818,7 +818,7 @@ Page content START -->
                     <ul class="pagination pagination-primary-soft rounded mb-0">
                         <li class="page-item mb-0"><a class="page-link" href="#" tabindex="-1"><i
                                     class="fas fa-angle-double-left"></i></a></li>
-                        <li class="page-item mb-0 active"><a class="page-link" href="blog1.html">1</a></li>
+                        <li class="page-item mb-0 active"><a class="page-link" href="blog.html">1</a></li>
                         <li class="page-item mb-0"><a class="page-link" href="#">2</a></li>
                         <li class="page-item mb-0"><a class="page-link" href="#">..</a></li>
                         <li class="page-item mb-0"><a class="page-link" href="#">6</a></li>
@@ -959,6 +959,85 @@ Page content END -->
     <!-- Template Functions -->
     <script src="assets/js/functions.js"></script>
 
+
+<!-- Enquire Now Modal START -->
+<div class="modal fade" id="enquiryModal" tabindex="-1" aria-labelledby="enquiryModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content border-0 shadow-lg">
+            <div class="modal-header bg-primary text-white">
+                <h5 class="modal-title fw-bold text-white" id="enquiryModalLabel"><i class="bi bi-envelope-check me-2"></i>Get in Touch / Quick Enquiry</h5>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body p-4">
+                <form id="enquiryForm">
+                    <div class="mb-3">
+                        <label class="form-label fw-bold">I am interested in:</label>
+                        <div class="d-flex gap-3 flex-wrap">
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" name="inquiry_type" id="modalFranchise" value="Franchise Inquiry" checked>
+                                <label class="form-check-label fw-semibold" for="modalFranchise">Franchise Business</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" name="inquiry_type" id="modalStudent" value="Student Admission">
+                                <label class="form-check-label fw-semibold" for="modalStudent">Student Classes</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" name="inquiry_type" id="modalOther" value="General Inquiry">
+                                <label class="form-check-label fw-semibold" for="modalOther">Others</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label small fw-bold">Your Name *</label>
+                        <input id="modal-name" name="name" class="form-control" placeholder="Enter your full name" required type="text">
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label small fw-bold">Email Address *</label>
+                        <input id="modal-email" name="email" class="form-control" placeholder="name@example.com" required type="email">
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label small fw-bold">Phone / WhatsApp Number *</label>
+                        <div class="input-group">
+                            <span class="input-group-text bg-light border-end-0">
+                                <span class="fw-bold small">+91</span>
+                            </span>
+                            <input id="modal-phone" name="phone" class="form-control border-start-0" placeholder="10-digit mobile number" required type="tel" pattern="[0-9]{10}">
+                        </div>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label small fw-bold">City / Location</label>
+                        <input id="modal-city" name="city" class="form-control" placeholder="Your City & State" type="text">
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label small fw-bold">Message / Questions</label>
+                        <textarea placeholder="Tell us how we can help you..." class="form-control" id="modal-message" name="message" rows="3"></textarea>
+                    </div>
+
+                    <button id="modalSendBtn" type="submit" class="btn btn-warning w-100 fw-bold py-2 shadow-sm">
+                        <span class="spinner-border spinner-border-sm me-2 d-none" role="status" aria-hidden="true"></span>
+                        Send Enquiry Now
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Toast Notification -->
+<div class="position-fixed bottom-0 end-0 p-3" style="z-index: 11000">
+    <div id="enquiryToast" class="toast align-items-center text-white bg-success border-0" role="alert" aria-live="assertive" aria-atomic="true">
+        <div class="d-flex">
+            <div class="toast-body">
+                Thank you for your enquiry! Our IPA team will contact you soon.
+            </div>
+            <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast" aria-label="Close"></button>
+        </div>
+    </div>
+</div>
+<!-- Enquire Now Modal END -->
+
+<script src="assets/js/enquiryForm.js"></script>
 </body>
 
 </html>
