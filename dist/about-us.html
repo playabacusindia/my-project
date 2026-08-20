@@ -546,14 +546,13 @@ About founder START -->
                 <div class="row align-items-center">
                     <div class="col-lg-5 position-relative">
                         <!-- Image -->
-                        src="assets/images/sharadasriram/SharadaSriram.jpg" class="rounded" alt="SharadaSriram - Ideal Play Abacus"
+                        <img src="assets/images/sharadasriram/SharadaSriram.jpg" class="rounded" alt="SharadaSriram - Ideal
+                        Play Abacus">
                     </div>
 
                     <div class="col-lg-7 mt-4 mt-lg-0">
-                        <img class="img-fluid d-block light-mode-item mt-lg-n7 mt-4 mb-4"
-                            src="assets/images/logo/horizontallogo.svg" alt="IPA Horizontal Logo">
-                        <img class="img-fluid d-block dark-mode-item mt-lg-n7 mt-4 mb-4"
-                            src="assets/images/logo/horizontallogodark.svg" alt="IPA Horizontal Logo Dark">
+                        <img class="img-fluid d-block mt-lg-n7 mt-4 mb-4" src="assets/images/logo/horizontallogo.svg"
+                            alt="IPA Horizontal Logo">
                         <!-- Title -->
                         <h4 class="mb-4">Ideal Play Abacus India Private Limited</h4>
 
@@ -708,8 +707,8 @@ About START -->
                         <!-- Image -->
                         <h2><span class="text-success">Mrs. Shaarada K.Sriram</span></h2>
                         <h5>MANAGING DIRECTOR</h5>
-                        src="assets/images/sharadasriram/mamabout.jpg" class="position-relative rounded-2 mt-2"
-                            alt="mamabout - Ideal Play Abacus"
+                        <img src="assets/images/sharadasriram/mamabout.jpg" class="position-relative rounded-2 mt-2"
+                            alt="mamabout - Ideal Play Abacus">
                     </div>
 
                     <div class="col-lg-6 position-relative order-1 order-lg-2">
@@ -783,7 +782,8 @@ About START -->
                             </svg>
                         </figure>
                         <!-- Image -->
-                        src="assets/images/about/nlccomp.jpg" class="position-relative rounded-2" alt="nlccomp - Ideal Play Abacus"
+                        <img src="assets/images/about/nlccomp.jpg" class="position-relative rounded-2" alt="nlccomp - Ideal
+                        Play Abacus">
                     </div>
                 </div>
             </div>
@@ -1370,84 +1370,99 @@ Footer END -->
     <script src="assets/js/functions.js"></script>
 
 
-<!-- Enquire Now Modal START -->
-<div class="modal fade" id="enquiryModal" tabindex="-1" aria-labelledby="enquiryModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered">
-        <div class="modal-content border-0 shadow-lg">
-            <div class="modal-header bg-primary text-white">
-                <h5 class="modal-title fw-bold text-white" id="enquiryModalLabel"><i class="bi bi-envelope-check me-2"></i>Get in Touch / Quick Enquiry</h5>
-                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body p-4">
-                <form id="enquiryForm">
-                    <div class="mb-3">
-                        <label class="form-label fw-bold">I am interested in:</label>
-                        <div class="d-flex gap-3 flex-wrap">
-                            <div class="form-check">
-                                <input class="form-check-input" type="radio" name="inquiry_type" id="modalFranchise" value="Franchise Inquiry" checked>
-                                <label class="form-check-label fw-semibold" for="modalFranchise">Franchise Business</label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="radio" name="inquiry_type" id="modalStudent" value="Student Admission">
-                                <label class="form-check-label fw-semibold" for="modalStudent">Student Classes</label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="radio" name="inquiry_type" id="modalOther" value="General Inquiry">
-                                <label class="form-check-label fw-semibold" for="modalOther">Others</label>
+    <!-- Enquire Now Modal START -->
+    <div class="modal fade" id="enquiryModal" tabindex="-1" aria-labelledby="enquiryModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content border-0 shadow-lg">
+                <div class="modal-header bg-primary text-white">
+                    <h5 class="modal-title fw-bold text-white" id="enquiryModalLabel"><i
+                            class="bi bi-envelope-check me-2"></i>Get in Touch / Quick Enquiry</h5>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"
+                        aria-label="Close"></button>
+                </div>
+                <div class="modal-body p-4">
+                    <form id="enquiryForm">
+                        <div class="mb-3">
+                            <label class="form-label fw-bold">I am interested in:</label>
+                            <div class="d-flex gap-3 flex-wrap">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="inquiry_type" id="modalFranchise"
+                                        value="Franchise Inquiry" checked>
+                                    <label class="form-check-label fw-semibold" for="modalFranchise">Franchise
+                                        Business</label>
+                                </div>
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="inquiry_type" id="modalStudent"
+                                        value="Student Admission">
+                                    <label class="form-check-label fw-semibold" for="modalStudent">Student
+                                        Classes</label>
+                                </div>
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="inquiry_type" id="modalOther"
+                                        value="General Inquiry">
+                                    <label class="form-check-label fw-semibold" for="modalOther">Others</label>
+                                </div>
                             </div>
                         </div>
-                    </div>
 
-                    <div class="mb-3">
-                        <label class="form-label small fw-bold">Your Name *</label>
-                        <input id="modal-name" name="name" class="form-control" placeholder="Enter your full name" required type="text">
-                    </div>
-                    <div class="mb-3">
-                        <label class="form-label small fw-bold">Email Address *</label>
-                        <input id="modal-email" name="email" class="form-control" placeholder="name@example.com" required type="email">
-                    </div>
-                    <div class="mb-3">
-                        <label class="form-label small fw-bold">Phone / WhatsApp Number *</label>
-                        <div class="input-group">
-                            <span class="input-group-text bg-light border-end-0">
-                                <span class="fw-bold small">+91</span>
-                            </span>
-                            <input id="modal-phone" name="phone" class="form-control border-start-0" placeholder="10-digit mobile number" required type="tel" pattern="[0-9]{10}">
+                        <div class="mb-3">
+                            <label class="form-label small fw-bold">Your Name *</label>
+                            <input id="modal-name" name="name" class="form-control" placeholder="Enter your full name"
+                                required type="text">
                         </div>
-                    </div>
-                    <div class="mb-3">
-                        <label class="form-label small fw-bold">City / Location</label>
-                        <input id="modal-city" name="city" class="form-control" placeholder="Your City & State" type="text">
-                    </div>
-                    <div class="mb-3">
-                        <label class="form-label small fw-bold">Message / Questions</label>
-                        <textarea placeholder="Tell us how we can help you..." class="form-control" id="modal-message" name="message" rows="3"></textarea>
-                    </div>
+                        <div class="mb-3">
+                            <label class="form-label small fw-bold">Email Address *</label>
+                            <input id="modal-email" name="email" class="form-control" placeholder="name@example.com"
+                                required type="email">
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label small fw-bold">Phone / WhatsApp Number *</label>
+                            <div class="input-group">
+                                <span class="input-group-text bg-light border-end-0">
+                                    <span class="fw-bold small">+91</span>
+                                </span>
+                                <input id="modal-phone" name="phone" class="form-control border-start-0"
+                                    placeholder="10-digit mobile number" required type="tel" pattern="[0-9]{10}">
+                            </div>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label small fw-bold">City / Location</label>
+                            <input id="modal-city" name="city" class="form-control" placeholder="Your City & State"
+                                type="text">
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label small fw-bold">Message / Questions</label>
+                            <textarea placeholder="Tell us how we can help you..." class="form-control"
+                                id="modal-message" name="message" rows="3"></textarea>
+                        </div>
 
-                    <button id="modalSendBtn" type="submit" class="btn btn-warning w-100 fw-bold py-2 shadow-sm">
-                        <span class="spinner-border spinner-border-sm me-2 d-none" role="status" aria-hidden="true"></span>
-                        Send Enquiry Now
-                    </button>
-                </form>
+                        <button id="modalSendBtn" type="submit" class="btn btn-warning w-100 fw-bold py-2 shadow-sm">
+                            <span class="spinner-border spinner-border-sm me-2 d-none" role="status"
+                                aria-hidden="true"></span>
+                            Send Enquiry Now
+                        </button>
+                    </form>
+                </div>
             </div>
         </div>
     </div>
-</div>
 
-<!-- Toast Notification -->
-<div class="position-fixed bottom-0 end-0 p-3" style="z-index: 11000">
-    <div id="enquiryToast" class="toast align-items-center text-white bg-success border-0" role="alert" aria-live="assertive" aria-atomic="true">
-        <div class="d-flex">
-            <div class="toast-body">
-                Thank you for your enquiry! Our IPA team will contact you soon.
+    <!-- Toast Notification -->
+    <div class="position-fixed bottom-0 end-0 p-3" style="z-index: 11000">
+        <div id="enquiryToast" class="toast align-items-center text-white bg-success border-0" role="alert"
+            aria-live="assertive" aria-atomic="true">
+            <div class="d-flex">
+                <div class="toast-body">
+                    Thank you for your enquiry! Our IPA team will contact you soon.
+                </div>
+                <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast"
+                    aria-label="Close"></button>
             </div>
-            <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast" aria-label="Close"></button>
         </div>
     </div>
-</div>
-<!-- Enquire Now Modal END -->
+    <!-- Enquire Now Modal END -->
 
-<script src="assets/js/enquiryForm.js"></script>
+    <script src="assets/js/enquiryForm.js"></script>
 </body>
 
 </html>
